@@ -1,0 +1,36 @@
+*{
+    margin: 0px 0px 0px 2px;
+}
+h1{
+    color: white;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+p{
+    display: inline;
+    color: #ff9101;
+}
+div{
+    display: flex;
+    justify-content:space-evenly;
+    background-color:blue;
+    
+}
+.Bname{
+    margin-left: 25px;
+}
+button{
+    color: blue;
+    
+}
+#login{
+    color: blue;
+    font-size: 15px;
+}
+#explore:hover{
+    text-decoration:solid underline;
+}
